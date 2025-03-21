@@ -1,4 +1,4 @@
-# FLUX
+## FLUX
 
 > refer: [github.com/black-forest-labs/flux](https://github.com/black-forest-labs/flux)
 
@@ -23,25 +23,25 @@ FLUX: by Black Forest Labs: [https://blackforestlabs.ai](https://blackforestlabs
 | `FLUX1.1 Redux [pro]`       | [Image variation](https://github.com/black-forest-labs/flux/blob/main/docs/image-variation.md) |
 | `FLUX1.1 Redux [pro] Ultra` | [Image variation](https://github.com/black-forest-labs/flux/blob/main/docs/image-variation.md) |
 
-##  Flux AI Models: Pro, Dev, Schnell
+### Flux AI Models Series: Pro, Dev, Schnell
 
 > refer: [flux101 - flux-model](https://flux101.com/en/basics/flux-model)
 
 The Flux model family consists of three variants: Flux Pro, Flux Dev, and Flux Schnell. Each variant is designed for different use cases, ranging from professional-grade image generation to efficient local development.
 
-### Flux Pro
+#### Flux Pro
 
 Closed-source model, providing the best performance, suitable for commercial applications. Currently, you can only use it through the API, or use the application that calls this API.
 
-### Flux Dev
+#### Flux Dev
 
 Open-source model, not for commercial use, distilled from the Pro version, with similar image quality and prompt following capabilities, but more efficient.
 
-### Flux Schnell
+#### Flux Schnell
 
 Open-source model, based on the Apache 2.0 license, designed for local development and personal use, with the fastest generation speed and the smallest memory footprint.
 
-# Stable Diffusion 
+## Stable Diffusion 
 
 > refer: 
 >
