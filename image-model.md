@@ -1,6 +1,9 @@
 ## FLUX
 
-> refer: [github.com/black-forest-labs/flux](https://github.com/black-forest-labs/flux)
+> refer: 
+>
+> - [github.com/black-forest-labs/flux](https://github.com/black-forest-labs/flux)
+> - [Flux.1 ComfyUI install guidance, workflow and example](https://comfyui-wiki.com/en/tutorial/advanced/flux1-comfyui-guide-workflow-and-examples)
 
 FLUX: by Black Forest Labs: [https://blackforestlabs.ai](https://blackforestlabs.ai/). 
 
@@ -61,3 +64,8 @@ Open-source model, based on the Apache 2.0 license, designed for local developme
 - **SD 2.x**
 - **SD 1.x**
 
+## Reve 
+
+> refer: [Reve AI - reve image 1.0](https://reveai.org/models/reve-image-1.0)
+
+- Reve Image 1.0 (code-named Halfmoon) 
