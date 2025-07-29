@@ -34,5 +34,6 @@ The common patterns for agentic systems we’ve seen in production:
 
 [^1]: [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents): a seminal writeup on simple, composable patterns for building production-ready AI agents.
 
-[^2]: [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): This guide is designed for product and engineering teams exploring how to build their first agents,
+[^2]: [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): This guide is designed for product and engineering teams exploring how to build their first agents.
 
+[^3]: [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
