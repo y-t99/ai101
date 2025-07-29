@@ -51,7 +51,7 @@ $$
 
 尽管大语言模型已经直接展示了有前景的 ICL 能力，但许多研究表明，这些 ICL 能力可以通过推理前的专门训练得到进一步增强（Chen et al., 2022; Gu et al., 2023; Shi et al., 2024）。
 
-![image-20250729010354276](/Users/itoung/Project/ai101/picture/icl-model-training.png)
+![image-20250729010354276](./picture/icl-model-training.png)
 
 #### Pretraining
 
