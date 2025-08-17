@@ -26,7 +26,28 @@ The common patterns for agentic systems we’ve seen in production:
 
 7. Agents | understanding complex inputs, engaging in reasoning and planning, using tools reliably, and recovering from errors.
 
-## A practical guide to building agents[^2]
+---
+
+## Reading
+
+- [x] A Survey on Large Language Model based Autonomous Agents
+- [x] [Claude’s extended thinking ](https://www.anthropic.com/research/visible-extended-thinking)
+- [x] [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool)
+- [ ] Understanding the planning of LLM agents: A survey
+- [ ] ReAct: Synergizing Reasoning and Acting in Language Models
+- [ ] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+- [ ] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+- [ ] Self-Refine: Iterative Refinement with Self-Feedback
+
+---
+
+A Survey on Large Language Model based Autonomous Agents[^4]：主要涵盖智能体的构建、应用和评估方法。
+
+1. 应设计何种架构以更好地利用LLM？
+   ![image-20250812102251937](/Users/itoung/Project/ai101/picture/agent-architecture.png)
+2. 在给定架构下，如何使智能体获得完成特定任务的能力？ 一是通过微调获取能力，二是通过提示工程或机制工程。
+
+---
 
 
 
@@ -37,3 +58,6 @@ The common patterns for agentic systems we’ve seen in production:
 [^2]: [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): This guide is designed for product and engineering teams exploring how to build their first agents.
 
 [^3]: [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
+[^4]: [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
+[^5]: [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)
+
