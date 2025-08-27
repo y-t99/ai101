@@ -30,9 +30,12 @@ The common patterns for agentic systems we’ve seen in production:
 
 ## Reading
 
+- [x] [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
 - [x] A Survey on Large Language Model based Autonomous Agents
 - [x] [Claude’s extended thinking ](https://www.anthropic.com/research/visible-extended-thinking)
 - [x] [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool)
+- [ ] [Building Production-Ready Agentic Systems: Lessons from Shopify Sidekick](https://shopify.engineering/building-production-ready-agentic-systems)
+- [x] Survey: Tool Learning with Large Language Models
 - [ ] Understanding the planning of LLM agents: A survey
 - [ ] ReAct: Synergizing Reasoning and Acting in Language Models
 - [ ] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
@@ -41,7 +44,7 @@ The common patterns for agentic systems we’ve seen in production:
 
 ---
 
-A Survey on Large Language Model based Autonomous Agents[^4]：主要涵盖智能体的构建、应用和评估方法。
+A Survey on Large Language Model based Autonomous Agents[^3]：主要涵盖智能体的构建、应用和评估方法。
 
 1. 应设计何种架构以更好地利用LLM？
    ![image-20250812102251937](/Users/itoung/Project/ai101/picture/agent-architecture.png)
@@ -57,7 +60,4 @@ A Survey on Large Language Model based Autonomous Agents[^4]：主要涵盖智�
 
 [^2]: [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): This guide is designed for product and engineering teams exploring how to build their first agents.
 
-[^3]: [Context Engineering for AI Agents: Lessons from Building Manus](https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus)
-[^4]: [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
-[^5]: [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)
-
+[^3]: [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)

@@ -80,3 +80,123 @@ ChatGPT-4o Prompt 👇
 }
 ```
 
+```json
+{
+    "task": "Generate a premium 3D cartoon flat travel icon with grouped objects.",
+    "style": {
+        "goal": "Match the collectible clay-molded icon aesthetic — smooth, rounded shapes, soft matte texture, warm pastel colors, playful yet premium look",
+        "render_engine": "Cinema 4D + Redshift equivalent with soft GI lighting",
+        "materials": {
+            "clay": {
+                "texture": "Matte, smooth, with subtle handcrafted imperfections",
+                "finish": "Sculpted and slightly stylized — not photorealistic, not flat cartoon"
+            },
+            "details": {
+                "material": "Matte painted clay with clean color separation",
+                "finish": "Consistent saturation, no noise or rough edges"
+            },
+            "shadows": {
+                "type": "Soft ambient occlusion with light contact shadows",
+                "style": "Minimal but grounding"
+            }
+        }
+    },
+    "geometry": {
+        "pose": "Frontal centered view for each icon",
+        "composition": "Single object per icon, isolated, no overlapping elements",
+        "arrangement": "Uniform grid layout, consistent icon proportions, equal spacing between icons",
+        "perspective": "Orthographic-like with slight top-down angle for depth"
+    },
+    "background": {
+        "type": "Solid light neutral color",
+        "colors": [
+            "soft beige",
+            "light cream",
+            "pastel off-white"
+        ],
+        "rules": "No patterns, no gradients, no text — clean background for icon clarity"
+    },
+    "render": {
+        "resolution": "1024x1024px per icon or higher",
+        "format": "PNG with transparent or solid light background",
+        "lighting": {
+            "type": "Soft diffused studio lighting",
+            "mood": "Warm, clean, and inviting"
+        },
+        "camera": {
+            "angle": "Straight-on or slightly elevated view",
+            "lens": "Minimal distortion for consistent icon scale"
+        },
+        "output_rules": {
+            "composition": "All icons should be visually balanced and consistent in style",
+            "shadow": "Subtle soft shadows allowed under each object",
+            "material_consistency": "Match high-quality clay-style references — avoid flat vector or hyperreal textures"
+        }
+    },
+    "output_goals": {
+        "use_case": "Travel-related app UI, infographics, or themed sticker pack",
+        "style_consistency": "Match cohesive clay-style set with warm, inviting colors and consistent shapes"
+    },
+    "input_requirements": {
+        "objects": [
+          { "main": "Tent", "lamp": "Lantern", "moon": "Crescent Moon", "ground": "Grass" },
+          { "main": "Backpack", "straps": "Red Straps", "pocket": "Front Pocket" },
+          { "main": "Hot Air Balloon", "balloon": "Striped Balloon", "basket": "Basket" },
+          { "main": "Map", "pin": "Location Pin", "mountains": "Landscape Drawing" },
+          { "main": "Snorkel Mask", "tube": "Snorkel Tube", "goggles": "Mask Lens" },
+
+          { "main": "Bottle", "inside": "Message Scroll", "leaf": "Green Leaf" },
+          { "main": "Kayak", "paddle": "Double Paddle", "waves": "Water Waves" },
+          { "main": "Eiffel Tower", "flag": "Red Flag", "tree": "Tree" },
+          { "main": "Cooler Box", "lock": "Padlock", "handle": "Handle" },
+          { "main": "Taxi", "face": "Smile Face", "sign": "Taxi Sign" },
+
+          { "main": "Camera", "photo": "Printed Photo", "lens": "Lens" },
+          { "main": "Bicycle", "lock": "Padlock Sign", "frame": "Bike Frame" },
+          { "main": "Signpost", "signs": "Hiking Arrows", "base": "Pole" },
+          { "main": "Compass", "needle": "Arrow Needle", "maps": "Mini Maps" },
+          { "main": "Lighthouse", "cloud": "Cloud", "leaf": "Small Plant" },
+
+          { "main": "Beach Ball", "stripes": "Colored Stripes", "pump": "Air Valve" },
+          { "main": "Boots", "laces": "Shoelaces", "pair": "Two Boots" },
+          { "main": "Postcard", "stamp": "Postage Stamp", "envelope": "Envelope" },
+          { "main": "Surfboard", "hat": "Straw Hat", "shell": "Seashell" },
+          { "main": "Fishing Rod", "line": "Fishing Line", "hook": "Hook", "fish": "Green Fish" }
+        ],
+        "color_palette": [
+          "bright orange",
+          "burnt orange",
+          "peach orange",
+          "golden yellow",
+          "pale yellow",
+          "olive green",
+          "light green",
+          "mint green",
+          "forest green",
+          "sky blue",
+          "light blue",
+          "teal blue",
+          "aqua blue",
+          "soft red",
+          "coral red",
+          "brown",
+          "light brown",
+          "beige",
+          "ivory",
+          "white",
+          "light gray",
+          "dark gray",
+          "black"
+        ],
+        "icon_rules": "Each icon represents a single concept clearly without unnecessary background elements"
+    }
+}
+```
+
+```
+render engine:
+	Cinema 4D: '动态图形和广告行业'
+	Blender: '通用'
+	Autodesk Maya: '电影'
+```
+

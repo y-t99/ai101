@@ -69,3 +69,10 @@ Open-source model, based on the Apache 2.0 license, designed for local developme
 > refer: [Reve AI - reve image 1.0](https://reveai.org/models/reve-image-1.0)
 
 - Reve Image 1.0 (code-named Halfmoon) 
+
+## Compare
+
+[Ideogram 3.0](https://about.ideogram.ai/3.0): stunning **realism**, creative designs, and consistent styles, all in one powerful model. Ideogram 3.0 pushes the boundaries of generative media through significant advancements in image-prompt alignment, photorealism, and text rendering quality. **Ideogram 3.0 introduces Style References. Creators can upload up to 3 reference images to control generations to follow their preferred aesthetics. ** Ideogram 3.0 offers game-changing text and layout generation capabilities for graphic design, advertising, marketing, and other professional use cases (**accurate text can be created with remarkable precision**). 
+
+[Seedream 3.0](https://seed.bytedance.com/en/tech/seedream3_0): a native high-resolution bilingual image generation foundational model (Chinese-English). Seedream 3.0 delivers significantly enhanced capabilities: it supports native **2K resolution** output, offers faster response speeds, **generates more accurate small text, improves text layout effects**, enhances **aesthetics** and structural quality, and demonstrates excellent fidelity and detail performance.
+

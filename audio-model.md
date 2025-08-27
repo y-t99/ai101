@@ -1,3 +1,7 @@
+## Reading
+
+- [x] Simple and Controllable Music Generation
+
 ## ElevenLabs
 
 ### Models
@@ -27,4 +31,3 @@
 - Audio Quality
 - Age, Tone/Timbre and Gender
 - Pacing
-- 
