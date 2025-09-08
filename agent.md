@@ -112,7 +112,7 @@ Types of guardrails
 A Survey on Large Language Model based Autonomous Agents[^3]：主要涵盖智能体的构建、应用和评估方法。
 
 1. 应设计何种架构以更好地利用LLM？
-   ![image-20250812102251937](/Users/itoung/Project/ai101/picture/agent-architecture.png)
+   ![image-20250812102251937](./picture/agent-architecture.png)
 2. 在给定架构下，如何使智能体获得完成特定任务的能力？ 一是通过微调获取能力，二是通过提示工程或机制工程。
 
 ---
