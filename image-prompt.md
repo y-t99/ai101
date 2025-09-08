@@ -200,3 +200,8 @@ render engine:
 	Autodesk Maya: '电影'
 ```
 
+```
+nano-banana
+Replace the character from Image 1 with the pose from Image 2, shot in a professional studio.
+```
+
