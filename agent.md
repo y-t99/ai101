@@ -106,13 +106,16 @@ Types of guardrails
 - [ ] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 - [ ] Self-Refine: Iterative Refinement with Self-Feedback
 - [x] Routine: A Structural Planning Framework for LLM Agent System in Enterprise [Character 3]
+- [ ] A Survey on the Memory Mechanism of Large Language Model based Agents
 
 ---
 
 A Survey on Large Language Model based Autonomous Agents[^3]：主要涵盖智能体的构建、应用和评估方法。
 
 1. 应设计何种架构以更好地利用LLM？
+   
    ![image-20250812102251937](./picture/agent-architecture.png)
+
 2. 在给定架构下，如何使智能体获得完成特定任务的能力？ 一是通过微调获取能力，二是通过提示工程或机制工程。
 
 ---
