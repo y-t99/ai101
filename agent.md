@@ -98,7 +98,7 @@ Types of guardrails
 - [x] A Survey on Large Language Model based Autonomous Agents
 - [x] [Claude’s extended thinking ](https://www.anthropic.com/research/visible-extended-thinking)
 - [x] [The "think" tool: Enabling Claude to stop and think in complex tool use situations](https://www.anthropic.com/engineering/claude-think-tool)
-- [ ] [Building Production-Ready Agentic Systems: Lessons from Shopify Sidekick](https://shopify.engineering/building-production-ready-agentic-systems)
+- [x] [Building Production-Ready Agentic Systems: Lessons from Shopify Sidekick](https://shopify.engineering/building-production-ready-agentic-systems)
 - [x] Survey: Tool Learning with Large Language Models
 - [ ] Understanding the planning of LLM agents: A survey
 - [ ] ReAct: Synergizing Reasoning and Acting in Language Models
@@ -106,7 +106,7 @@ Types of guardrails
 - [ ] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 - [ ] Self-Refine: Iterative Refinement with Self-Feedback
 - [x] Routine: A Structural Planning Framework for LLM Agent System in Enterprise [Character 3]
-- [ ] A Survey on the Memory Mechanism of Large Language Model based Agents
+- [x] A Survey on the Memory Mechanism of Large Language Model based Agents
 
 ---
 
